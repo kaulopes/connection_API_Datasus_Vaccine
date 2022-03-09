@@ -1,0 +1,2 @@
+class Datasu < ApplicationRecord
+end
